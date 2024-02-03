@@ -1,4 +1,4 @@
-## DB2DOC-JP
+## DB2Doc
 
 ### 
 
